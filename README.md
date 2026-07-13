@@ -75,7 +75,7 @@ A fast learner who ships, iterates, and cares about real product value.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=trinhxuangiang16&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=trinhxuangiang16&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 
 </div>
 
@@ -85,11 +85,11 @@ A fast learner who ships, iterates, and cares about real product value.
 
 <div align="center">
 
-<a href="#">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=trinhxuangiang16&repo=REPO_1&hide_border=true&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF&bg_color=0d1117"/>
+<a href="https://github.com/trinhxuangiang16/movie-booking-frontend">
+  <img width="46%" src="https://github-readme-stats-nu-mocha-27.vercel.app/api/pin/?username=trinhxuangiang16&repo=movie-booking-frontend&hide_border=true&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF&bg_color=0d1117"/>
 </a>
-<a href="#">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=trinhxuangiang16&repo=REPO_2&hide_border=true&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF&bg_color=0d1117"/>
+<a href="https://github.com/trinhxuangiang16/3d-ui-smooth">
+  <img width="46%" src="https://github-readme-stats-nu-mocha-27.vercel.app/api/pin/?username=trinhxuangiang16&repo=3d-ui-smooth&hide_border=true&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF&bg_color=0d1117"/>
 </a>
 
 <!-- TODO: thay REPO_1 / REPO_2 bằng tên repo thật -->

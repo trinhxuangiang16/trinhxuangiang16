@@ -47,10 +47,9 @@ A fast learner who ships, iterates, and cares about real product value.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=trinhxuangiang16&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats-nu-mocha-27.vercel.app/api?username=trinhxuangiang16&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&bg_color=0d1117"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=trinhxuangiang16&hide_border=true&background=0d1117&stroke=30363d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhxuangiang16&layout=compact&hide_border=true&langs_count=8&title_color=58A6FF&text_color=8b949e&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats-nu-mocha-27.vercel.app/api/top-langs/?username=trinhxuangiang16&layout=compact&hide_border=true&langs_count=8&title_color=58A6FF&text_color=8b949e&bg_color=0d1117"/>
 
 <br/><br/>
 
